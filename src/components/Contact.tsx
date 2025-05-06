@@ -5,7 +5,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 function Contact() {
 
-  const whatsappNumber = '923001234567'; // Replace with your actual WhatsApp number
+  //const whatsappNumber = '923001234567'; // Replace with your actual WhatsApp number
 
   return (
     <div id="contact">
